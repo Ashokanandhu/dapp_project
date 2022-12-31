@@ -18,6 +18,9 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
     ```javascript
     truffle develop
     ```
+(or 
+install Ganache providing local etherum enviornment in your systam 
+create a new work-space, use the accounts for deploying)
 
 4. Compile and migrate the smart contracts. Note inside the development console we don't preface commands with `truffle`.
     ```javascript
@@ -30,8 +33,6 @@ This box has all you need to get started with our [Pet Shop tutorial](http://tru
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
-
-**NOTE**: This box is not a complete dapp, but the starting point for the [Pet Shop tutorial](http://truffleframework.com/tutorial). You'll need to complete that for this to function.
 
 ## FAQ
 
